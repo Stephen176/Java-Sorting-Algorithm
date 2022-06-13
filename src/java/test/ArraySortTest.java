@@ -138,5 +138,4 @@ public class ArraySortTest {
         assertEquals(3, new RadixSort().getNumLenght(-100));
         assertEquals(1, new RadixSort().getNumLenght(1));
     }
-
 }
